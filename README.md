@@ -74,9 +74,13 @@ Procedure for Load test:
 ### Model graph: 
 
 Open circuit characteristics
+<img width="1290" height="907" alt="image" src="https://github.com/user-attachments/assets/78a2c37d-73bd-443c-95d8-bbd95e82df5e" />
+
 ![graph open circuit](https://github.com/user-attachments/assets/fbc0fe89-f724-4b1e-b027-49b94420ab28)
 
 Load Characteristics:
+<img width="1308" height="914" alt="image" src="https://github.com/user-attachments/assets/fafdfd23-73e7-4ddb-b4b8-31e630864404" />
+
  ![graph load](https://github.com/user-attachments/assets/c7869685-5758-4bc6-8e1a-77ccb286832b)
 
 Result:
